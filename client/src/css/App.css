@@ -1,0 +1,15 @@
+.app-body {
+    margin: 3% 5% 0% 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(56, 56, 61);
+    min-height: 5vh;
+    color: aliceblue;
+    padding: 2% 0% 2% 2%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+}
