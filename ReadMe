@@ -1,5 +1,5 @@
 Photo Search API using unsplash.com <br>
 Looks good on mobile screen sizes.
-Used CSS Grid for image show layout. <br>
+Used CSS Grid for image show layout.
 Would like to come back and align images better... Maybe filter out all landscape sizes and group together and filter out all portrait sizes and group together... <br>
 This project was created coding along with Stephen Grider's Modern React with Redux [2023 Update] but content, images, and styling were changed.
